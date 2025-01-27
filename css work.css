@@ -1,5 +1,5 @@
 
-*{
+/* *{
     color: darkblue;
     text-align: center;
     
@@ -20,4 +20,63 @@ h1{
     color: darkblue;
     text-align: center;
 }
-    
+     */
+
+/* .html{
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+h2{
+    color: #7F0500;
+}
+h3{
+    color: blue;
+}
+h4{
+    color: #ABA91A;
+}
+.lmn{
+    background-color:#43AA84 ;
+    text-align: center;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.option{
+    font-size: 30px;
+    background-color: #7F0500;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+} */
+/* 
+button{
+    width: 100px 300px;
+    height: 100px 200px;
+    color: blue;
+    border-radius: 5px #7F0500;
+    background-color: #F6583D ;
+    box-shadow:black;
+}
+.css{
+    width: 10px;
+    height: 10px 20px;
+}
+
+ */
+ /* *{
+    padding: 0px;
+    margin: 0px;
+ } */
+ h2{
+color: black;
+background-color: aqua;
+text-align: center;
+font-size: 25px;
+border: 2px solid red;
+width: 100px;
+margin: 350px 350px ;
+border-radius: 10px;
+box-shadow: 5px 5px  5px  5px  grey;
+}
